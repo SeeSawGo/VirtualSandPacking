@@ -1,6 +1,6 @@
 {
-    "coreNum":4,
-    "CaseName": "SandA_N5000",
+    "coreNum":1,
+    "CaseName": "RCP",
     "CaseNum":1,
     "nP": 1000,
     "pf": 0.6548,
