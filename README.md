@@ -7,5 +7,5 @@ Please contact Dr. Si Suo email: s.suo@imerial.ac.uk and Mr. Yongxin Wang email:
 The `bin/` folder contains executable files file used to generate the sand packings. You can modify the PSD curve, the porosity and the particle number in the .json file to generate new packing.
 
 ## Data
-The `data/` folder contains generated packings according to the PSDs recorded in references. Each subfolder contains the reference, input files, and generated packings (50k particles), which are written in Lammps input format (.lg) and xyzr format (.dat).
+The `data/` folder contains generated packings according to the PSDs recorded in references. Each subfolder contains the reference, input files, and generated packings (50k particles), which are written in Lammps input format (.lj) and xyzr format (.dat).
 
