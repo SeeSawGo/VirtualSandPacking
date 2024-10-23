@@ -4,7 +4,7 @@
     "CaseNum":1,
     "nP": 1000,
     "pf": 0.6548,
-    "psd": "sandA.csv",
+    "psd": "psd.csv",
     "isByMass": true,
     "iniCr": 1e-3,
     "numStep": 10000,
