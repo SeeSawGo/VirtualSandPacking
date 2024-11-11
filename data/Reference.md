@@ -7,9 +7,9 @@
 # Toyoura  
 (Yang, J. and Sze, H.Y., 2011. Cyclic behaviour and resistance of saturated sand under non-symmetrical loading conditions. Géotechnique, 61(1), pp.59-73.)
 
-# Summary of packing factor (PF) for each type of sands
+# Summary of packing factors (PF) for each type of sands
 |   Sand   | Packing Factor |
-| -------- | -------------- |
+| :------- | :------------: |
 | Ejezie_A |     0.6548     |
 | Ejezie_B |     0.6448     |
 | Ejezie_C |     0.6488     |
