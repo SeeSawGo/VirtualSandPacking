@@ -7,13 +7,13 @@
 # Toyoura  
 (Yang, J. and Sze, H.Y., 2011. Cyclic behaviour and resistance of saturated sand under non-symmetrical loading conditions. Géotechnique, 61(1), pp.59-73.)
 
-# Summary of packing fraction (PF) for each type of sands
-|   Sand   | Packing Fraction |
-| :------- | :------------: |
-| Ejezie_A |     0.6548     |
-| Ejezie_B |     0.6448     |
-| Ejezie_C |     0.6488     |
-|  Ottawa  |     0.6500     |
-|  Toyoura |     0.6500     |
-| Taylor_Cu1.5 | 0.5848     |
-| Taylor_Cu2.0 | 0.6098     |
+# Summary of solid fraction (SF) and boxsize for each type of sands
+|   Sand   | Solid Fraction | BoxSize (mm) |
+| :------- | :------------: | :----------: |
+| Ejezie_A |     0.6548     | 73.59        |
+| Ejezie_B |     0.6448     | 44.64        |
+| Ejezie_C |     0.6488     | 24.38        |
+|  Ottawa  |     0.6500     | 6.11         |
+|  Toyoura |     0.6500     | 6.59         |
+| Taylor_Cu1.5 | 0.5848     | 21.35        |
+| Taylor_Cu2.0 | 0.6098     | 25.53        |
