@@ -15,3 +15,5 @@
 | Ejezie_C |     0.6488     |
 |  Ottawa  |     0.6500     |
 |  Toyoura |     0.6500     |
+| Taylor_Cu1.5 | 0.5848     |
+| Taylor_Cu2.0 | 0.6098     |
