@@ -7,6 +7,9 @@ Carey, T.J., Stone, N. and Kutter, B.L., 2020. Grain size analysis and maximum a
 # Toyoura  
 Yang, J. and Sze, H.Y., 2011. Cyclic behaviour and resistance of saturated sand under non-symmetrical loading conditions. Géotechnique, 61(1), pp.59-73.
 
+# Hostun
+Azeiteiro, R.J., Coelho, P.A., Taborda, D.M. and Grazina, J.C., 2017. Critical state–based interpretation of the monotonic behavior of Hostun sand. Journal of Geotechnical and Geoenvironmental Engineering, 143(5), p.04017004.
+
 # Taylor_Cu1.5/2.0/3.0/4.0
 Taylor, H., 2016. Assessing the potential for suffusion in sands using x-ray micro-CT images (Doctoral dissertation, Imperial College London)
 
@@ -18,6 +21,8 @@ Taylor, H., 2016. Assessing the potential for suffusion in sands using x-ray mic
 | Ejezie_C |     0.6488     | 24.38        |
 |  Ottawa  |     0.6500     | 6.11         |
 |  Toyoura |     0.6500     | 6.59         |
+|  Hostun  |     0.6500     |              |
 | Taylor_Cu1.5 | 0.5848     | 21.35        |
 | Taylor_Cu2.0 | 0.6098     | 25.53        |
 | Taylor_Cu3.0 | 0.6135     | 20.77        |
+| Taylor_Cu4.0 | 0.6061     | 12.10        |
