@@ -1,7 +1,7 @@
 # VirtualSandPacking
 This repository contains sand packing generated using the Discrete Element Method (DEM). The data is structured based on different particle size distributions (PSD) and porosity levels. 
 
-Please contact Dr. Si Suo email: s.suo@imerial.ac.uk and Mr. Yongxin Wang email: yongxin.wang22@imperial.ac.uk
+Please contact Dr. Si Suo email: s.suo@imperial.ac.uk and Mr. Yongxin Wang email: yongxin.wang22@imperial.ac.uk
 
 ## How to Use
 The `bin/` folder contains an executable file for generating the sand packings. You can modify the PSD curve, the porosity and the particle number in the .json file to create new packings.
