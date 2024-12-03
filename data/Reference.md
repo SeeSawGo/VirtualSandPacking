@@ -14,15 +14,15 @@ Azeiteiro, R.J., Coelho, P.A., Taborda, D.M. and Grazina, J.C., 2017. Critical s
 Taylor, H., 2016. Assessing the potential for suffusion in sands using x-ray micro-CT images (Doctoral dissertation, Imperial College London)
 
 # Summary of solid fraction (SF) and boxsize for each type of sands
-|   Sand   | Solid Fraction | BoxSize (mm) | $D_50$ (mm) |
-| :------- | :------------: | :----------: | :-------: |
-| Ejezie_A |     0.6548     | 73.59        |  2.55     |
-| Ejezie_B |     0.6448     | 44.64        |  2.37     |
-| Ejezie_C |     0.6488     | 24.38        |  0.74     |
-|  Ottawa  |     0.6500     | 6.11         |  0.20     |
-|  Toyoura |     0.6500     | 6.59         |  0.20     |
-|  Hostun  |     0.6500     | 6.11         |  0.33     |
-| Taylor_Cu1.5 | 0.5848     | 21.35        |  0.65     |
-| Taylor_Cu2.0 | 0.6098     | 25.53        |  0.90     |
-| Taylor_Cu3.0 | 0.6135     | 20.77        |  0.95     |
-| Taylor_Cu4.0 | 0.6061     | 12.10        |  0.73     |
+|   Sand   | Solid Fraction | BoxSize (mm) | $D_{50}$ (mm) |
+| :------- | :------------: | :----------: | :-----------: |
+| Ejezie_A |     0.6548     | 73.59        |  2.55         |
+| Ejezie_B |     0.6448     | 44.64        |  2.37         |
+| Ejezie_C |     0.6488     | 24.38        |  0.74         |
+|  Ottawa  |     0.6500     | 6.11         |  0.20         |
+|  Toyoura |     0.6500     | 6.59         |  0.20         |
+|  Hostun  |     0.6500     | 6.11         |  0.33         |
+| Taylor_Cu1.5 | 0.5848     | 21.35        |  0.65         |
+| Taylor_Cu2.0 | 0.6098     | 25.53        |  0.90         |
+| Taylor_Cu3.0 | 0.6135     | 20.77        |  0.95         |
+| Taylor_Cu4.0 | 0.6061     | 12.10        |  0.73         |
