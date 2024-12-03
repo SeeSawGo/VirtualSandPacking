@@ -13,7 +13,7 @@ Azeiteiro, R.J., Coelho, P.A., Taborda, D.M. and Grazina, J.C., 2017. Critical s
 # Taylor_Cu1.5/2.0/3.0/4.0
 Taylor, H., 2016. Assessing the potential for suffusion in sands using x-ray micro-CT images (Doctoral dissertation, Imperial College London)
 
-# Summary of solid fraction (SF) and boxsize for each type of sands
+# Summary of solid fraction (SF), boxsize and $D_{50}$ for each type of sands
 |   Sand   | Solid Fraction | BoxSize (mm) | $D_{50}$ (mm) |
 | :------- | :------------: | :----------: | :-----------: |
 | Ejezie_A |     0.6548     | 73.59        |  2.55         |
