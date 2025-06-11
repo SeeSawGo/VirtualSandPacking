@@ -1,5 +1,5 @@
 # VirtualSandPacking
-This repository contains sand packing generated using the Discrete Element Method (DEM). The data is structured based on different particle size distributions (PSD) and porosity levels, such as,  
+This repository contains sand packing generated using the Discrete Element Method (DEM). The data is structured based on different particle size distributions (PSD) and porosity levels, such as, /pics/cylinder.png
 
 Please contact Dr. Si Suo email: s.suo@imperial.ac.uk and Mr. Yongxin Wang email: yongxin.wang22@imperial.ac.uk
 
